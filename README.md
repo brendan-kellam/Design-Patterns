@@ -8,4 +8,5 @@ I might include python (or if I feel up to it) C/C++</p>
 
 <ul>
   <li>State</li>
+  <li>Singleton</li>
 </ul>
