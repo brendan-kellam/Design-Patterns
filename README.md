@@ -7,6 +7,6 @@ I might include python (or if I feel up to it) C/C++</p>
 <h4>List of Design Patterns:</h4>
 
 <ul>
-  <a href="https://github.com/brendan-kellam/Design-Patterns/tree/master/src/state"> <li>State</li> </a>
-  <a href="https://github.com/brendan-kellam/Design-Patterns/tree/master/src/singleton"> <li>Singleton</li> </a>
+  <li> <a href="https://github.com/brendan-kellam/Design-Patterns/tree/master/src/state">State</a> </li> 
+  <li> <a href="https://github.com/brendan-kellam/Design-Patterns/tree/master/src/singleton">Singleton</a> </li> 
 </ul>
