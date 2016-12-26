@@ -2,7 +2,8 @@ package singleton;
 import java.util.LinkedList;
 
 /**
- * NOTE: This class provides a example
+ * <h1> GetTheTiles </h1>
+ * <p>Class used for thread creation</p>
  */
 
 public class GetTheTiles implements Runnable {
